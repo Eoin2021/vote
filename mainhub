@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+
+<script>
+var ozone;
+var blue;
+
+function buddy(){
+alert("hello there")
+}
+
+</script>
+
+  <head>
+    <title>HTML Demo</title>
+  </head>
+
+  <body>
+    
+    <button onclick="buddy()">
+      Wish
+    </button>
+    <hr>
+    <footer>
+      &copy; 2020 tom@abcd.com
+    </footer>
+  </body>
+
+</html>
